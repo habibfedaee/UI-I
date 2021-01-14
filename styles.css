@@ -1,0 +1,43 @@
+/*Select tags then style them */
+h1 {
+	color: white;
+	background: #0066cc;
+	margin-top: 30px;
+	border: solid;
+	border-color: #0066cc;
+}
+.nav-item{
+	padding: 5px 20px;
+	background: lightgray;
+	border: 1px solid gray;
+	margin: 10px;
+	border-radius: 5px;
+	display: inline-block;
+	color: black;
+	text-underline-position: under;
+}
+h3 {
+	color: red;
+	text-decoration: underline;
+	text-decoration-thickness: 2px;
+	text-underline-position: under;
+}
+a {
+	font-size: 24px;
+}
+.cta{
+	color: red;
+	font-size: 25px;
+}
+a:hover{
+	color:lavender;
+	background:black;
+}
+
+p{
+	font-style: italic;
+}
+#main-p {
+	border:1px solid green;
+	padding: 5px;
+}
